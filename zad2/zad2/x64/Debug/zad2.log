@@ -1,0 +1,9 @@
+﻿  zad2.c
+C:\Users\Korisnik\Desktop\Strukture_Podataka\zad2\zad2\zad2.c(45,11): warning C4013: 'toupper' undefined; assuming extern returning int
+C:\Users\Korisnik\Desktop\Strukture_Podataka\zad2\zad2\zad2.c(47,19): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\Strukture_Podataka\zad2\zad2\zad2.c(47,14): warning C4024: 'AddOnHead': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\Strukture_Podataka\zad2\zad2\zad2.c(50,18): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\Strukture_Podataka\zad2\zad2\zad2.c(50,13): warning C4024: 'AddOnEnd': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\Strukture_Podataka\zad2\zad2\zad2.c(183,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 3 has type 'int'
+C:\Users\Korisnik\Desktop\Strukture_Podataka\zad2\zad2\zad2.c(219,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 3 has type 'int'
+  zad2.vcxproj -> C:\Users\Korisnik\Desktop\Strukture_Podataka\zad2\x64\Debug\zad2.exe
