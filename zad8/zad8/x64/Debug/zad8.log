@@ -1,0 +1,6 @@
+﻿  zad8.c
+C:\Users\Korisnik\Desktop\github_ivona\Strukture_Podataka\zad8\zad8\zad8.c(29,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Korisnik\Desktop\github_ivona\Strukture_Podataka\zad8\zad8\zad8.c(78,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Korisnik\Desktop\github_ivona\Strukture_Podataka\zad8\zad8\zad8.c(187,9): warning C4033: 'levelOrder' must return a value
+C:\Users\Korisnik\Desktop\github_ivona\Strukture_Podataka\zad8\zad8\zad8.c(206): warning C4715: 'levelOrder': not all control paths return a value
+  zad8.vcxproj -> C:\Users\Korisnik\Desktop\github_ivona\Strukture_Podataka\zad8\x64\Debug\zad8.exe
